@@ -1,10 +1,10 @@
 #: ../client/application/ui/ui_helpers.cpp:65
 msgid "on"
-msgstr ""
+msgstr "开启"
 
 #: ../client/application/ui/ui_helpers.cpp:66
 msgid "off"
-msgstr ""
+msgstr "关闭"
 
 #: ../client/application/ui/keyboard_view.cpp:106
 msgid "ok"
@@ -16,87 +16,87 @@ msgstr ""
 #. "Update available (0.4.122)"
 #: ../client/application/utils/version.cpp:72
 msgid "Update available %s"
-msgstr ""
+msgstr "更新可用 %s"
 
 #: ../client/application/game/game.cpp:172
 msgid "Quick pause"
-msgstr ""
+msgstr "快速暂停"
 
 #: ../client/application/game/game.cpp:178
 msgid "Quick pause %s"
-msgstr ""
+msgstr "快速暂停 %s"
 
 #: ../client/application/game/ui/pause_ui.cpp:26
 msgid "Continue"
-msgstr ""
+msgstr "继续"
 
 #: ../client/application/game/ui/pause_ui.cpp:38
 msgid "Pause"
-msgstr ""
+msgstr "暂停"
 
 #: ../client/application/game/ui/pause_ui.cpp:54
 msgid "Restart"
-msgstr ""
+msgstr "重新开始"
 
 #: ../client/application/game/ui/pause_ui.cpp:72
 msgid "Exit"
-msgstr ""
+msgstr "退出"
 
 #: ../client/application/game/ui/game_over_ui.cpp:15
 msgid "Play again"
-msgstr ""
+msgstr "再玩一次"
 
 #: ../client/application/game/ui/game_over_ui.cpp:34
 msgid "Game Over"
-msgstr ""
+msgstr "游戏结束"
 
 #: ../client/application/game/ui/shared_strings.cpp:7
 msgid "Failed to parse response"
-msgstr ""
+msgstr "解析响应失败"
 
 #: ../client/application/game/ui/shared_strings.cpp:11
 msgid "Failed to contact server"
-msgstr ""
+msgstr "连接服务器失败"
 
 #: ../client/application/game/ui/shared_strings.cpp:15
 msgid "Official levels"
-msgstr ""
+msgstr "官方关卡"
 
 #: ../client/application/game/ui/shared_strings.cpp:19
 msgid "Community levels"
-msgstr ""
+msgstr "社区关卡"
 
 #: ../client/application/game/ui/shared_strings.cpp:23
 msgid "play count: %s"
-msgstr ""
+msgstr "游玩次数: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:27
 msgid "time played: %s"
-msgstr ""
+msgstr "游玩时间: %s"
 
 #: ../client/application/game/ui/shared_strings.cpp:31
 msgid "Casual"
-msgstr ""
+msgstr "休闲关卡"
 
 #: ../client/application/game/ui/shared_strings.cpp:35
 msgid "Failed to sign-in!"
-msgstr ""
+msgstr "登录失败"
 
 #: ../client/application/game/ui/screens/screen_download_level.cpp:33
 msgid "Downloading level..."
-msgstr ""
+msgstr "下载关卡..."
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:19
 msgid "Connect to server"
-msgstr ""
+msgstr "连接至服务器"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:50
 msgid "IP:"
-msgstr ""
+msgstr "IP地址:"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:58
 msgid "Port:"
-msgstr ""
+msgstr "端口"
 
 #: ../client/application/game/ui/screens/screen_specify_server_ip.cpp:69
 msgid "Connect to another room over the internet #ff0000ff(experimental)"
